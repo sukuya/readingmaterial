@@ -6,5 +6,6 @@
 * A Tour of PyTorch Internals from PyTorch BLOG 1: https://pytorch.org/blog/a-tour-of-pytorch-internals-1/ 
 * A Tour of PyTorch Internals from PyTorch BLOG 2: https://pytorch.org/blog/a-tour-of-pytorch-internals-2/ 
 #### SOUP
+* More on internal architecture by Perone. http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/
 #### MAINCOURSE
 #### DESSERTS
